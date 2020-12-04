@@ -13,4 +13,4 @@ y el otro guardó esa modificación en su repositorio local usando `git pull`, l
 ## Cuarto paso
 Se realizo una edicion del documento css añadiendole un comentario, Luego de dicha modificación se aplicanron los comandos: `git add` , `git commit`
 
-## AGREGADO PARA PRACTICA.
+## AGREGADO PARA PRACTICA.222
